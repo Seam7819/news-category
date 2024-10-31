@@ -44,6 +44,7 @@ const handleData = async (id) => {
         newsSection.appendChild(div)
     });
 }
- 
+//  /
 
+loadData()
 loadData()
