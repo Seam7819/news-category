@@ -48,3 +48,4 @@ const handleData = async (id) => {
 
 loadData()
 loadData()
+loadData()
